@@ -43,8 +43,8 @@ def find_sentence_4(file_path, keywordsall):
         return None
 
 
-file_path1 = "C:/Users/oleg2/Downloads/Проект контракта.pdf"
-file_path2 = "C:/Users/oleg2/Downloads/ТЗ  Сценическое покрытие    (1).docx"
+file_path2 = "C:/Users/oleg2/Downloads/Проект контракта.pdf"
+file_path1 = "C:/Users/oleg2/Downloads/ТЗ  Сценическое покрытие    (1).docx"
 
 keywordsall = [['поставки', 'дней'], ['поставка', 'дней'],['доставка','дней']]
 
